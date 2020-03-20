@@ -17,3 +17,8 @@
 	path = RLJO/FinalAppsp
 	url = git@github.com:RLJO/FinalApps.git
 	branch = app-om_hospital
+
+[submodule "RLJO/FinalApps88"]
+	path = RLJO/FinalApps88
+	url = git@github.com:RLJO/FinalApps.git
+	branch = app-om_hospital
