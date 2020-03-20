@@ -1,0 +1,4 @@
+[submodule "New"]
+	path = New
+	url = git@github.com:RLJO/FinalApps.git
+	branch = New
