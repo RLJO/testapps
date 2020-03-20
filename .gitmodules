@@ -2,3 +2,8 @@
 	path = RLJO/FinalApps
 	url = git@github.com:RLJO/FinalApps.git
 	branch = app-om_hospital
+
+[submodule "FinalApps"]
+	path = FinalApps
+	url = git@github.com:RLJO/FinalApps.git
+	branch = app-om_hospital
