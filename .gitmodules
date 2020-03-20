@@ -2,3 +2,8 @@
 	path = New
 	url = git@github.com:RLJO/FinalApps.git
 	branch = New
+
+[submodule "``"]
+	path = ``
+	url = git@github.com:RLJO/FinalApps.git
+	branch = New
