@@ -27,3 +27,8 @@
 	path = RLJO/FinalApps77
 	url = git@github.com:RLJO/FinalApps.git
 	branch = app-accounting_pdf_reports
+
+[submodule "RLJO/FinalApps77776"]
+	path = RLJO/FinalApps77776
+	url = git@github.com:RLJO/FinalApps.git
+	branch = app-om_hospital
