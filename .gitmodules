@@ -1,0 +1,4 @@
+[submodule "RLJO/royalline"]
+	path = RLJO/royalline
+	url = git@github.com:RLJO/royalline.git
+	branch = Master-Apps
